@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895622893844",
+    "project_id": "kotlin-firebase-read-arraylist",
+    "storage_bucket": "kotlin-firebase-read-arraylist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895622893844:android:c5184068f06e27cfe57201",
+        "android_client_info": {
+          "package_name": "com.x7.kotlin_firebase_read_arraylist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895622893844-401l22cpttd5vd1us1ogvup9je162u75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDosU1VCOFQbIyyj8pp-CxZtH8O_s8psa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895622893844-401l22cpttd5vd1us1ogvup9je162u75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
